@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/fabian1710-mcp-intercom-badge.png)](https://mseep.ai/app/fabian1710-mcp-intercom)
+
 # MCP Intercom Server
 
 A Model Context Protocol (MCP) server that provides access to Intercom conversations and chats. This server allows LLMs to query and analyze your Intercom conversations with various filtering options.
